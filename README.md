@@ -21,3 +21,7 @@ clone the repo
 cargo build
 
 copy the file into /usr/local/bin
+
+
+# To do:
+Translate to english

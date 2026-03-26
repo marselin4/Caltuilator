@@ -9,3 +9,15 @@ multiplication
 division
 
 probably more in the future if i feel to do so.
+
+
+# Build and instalation
+
+Dependencies:
+Rust
+
+clone the repo
+
+cargo build
+
+copy the file into /usr/local/bin

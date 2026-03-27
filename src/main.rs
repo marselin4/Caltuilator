@@ -9,7 +9,7 @@ use ratatui::{
 
 struct App {
     input: String,
-    resultado: Option<Result<i32, String>>,
+    resultado: Option<Result<i64, String>>,
     historial: Vec<String>,
 }
 
